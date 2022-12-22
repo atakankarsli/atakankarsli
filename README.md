@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently experimenting **ChatGPT**
 
-- 📝 I regularly write articles on [testep.com](testep.com)
+- 📝 I regularly write articles on [testep.com](atakankarsli.substack.com)
 
 - 💬 Ask me about **Testing, iOS, Selenium, XCUITest, Grafana**
 
